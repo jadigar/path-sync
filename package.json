@@ -1,0 +1,19 @@
+{
+  "name": "pathsync",
+  "version": "1.0.0",
+  "description": "Cross-platform library for creating a list of directory files synchronously",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jadigar/pathSync.git"
+  },
+  "author": "jadigar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jadigar/pathSync/issues"
+  },
+  "homepage": "https://github.com/jadigar/pathSync#readme"
+}
